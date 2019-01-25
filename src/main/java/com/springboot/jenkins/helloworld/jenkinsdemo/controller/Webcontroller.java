@@ -11,7 +11,7 @@ public class Webcontroller {
 
 	@RequestMapping(value = "/send", method = RequestMethod.GET)
 	public String getHelloJenins() {
-		return "Hello Jenkins User";
+		return "Hello Kohl Jenkins User";
 		
 	}
 
